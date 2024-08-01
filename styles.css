@@ -1,1 +1,37 @@
 /* Write your CSS here! */
+
+body {
+    background-color: green;
+    text-align: center;
+}
+
+header {
+   color: gold;
+   font-size: 100px;
+   text-decoration: underline;
+   font-family: 'Papyrus', fantasy, serif;
+  
+
+}
+
+p {
+    color: gold;
+    font-size: 20px;
+    font-family: 'Papyrus', fantasy, serif;
+    text-align: left;
+}
+
+img {
+    border: 10px gold;
+    float: right;
+    width: 45%;
+    font-size: 35px;
+    font-family: 'Papyrus', fantasy, serif;
+}
+
+footer {
+    color: gold;
+    font-size: 50px;
+    font-family: 'Papyrus', fantasy, serif;
+    text-align: center; 
+}
