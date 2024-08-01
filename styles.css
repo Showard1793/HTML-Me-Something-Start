@@ -3,6 +3,23 @@
 body {
     background-color: green;
     text-align: center;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 5px;
+
+}
+
+#testP {
+    color: green
+}
+
+.funParagraph {
+    font-size: 20px; 
+    color: green
 }
 
 header {
@@ -10,28 +27,30 @@ header {
    font-size: 100px;
    text-decoration: underline;
    font-family: 'Papyrus', fantasy, serif;
-  
-
 }
 
 p {
     color: gold;
     font-size: 20px;
+    margin-left: 50px;
     font-family: 'Papyrus', fantasy, serif;
     text-align: left;
 }
 
 img {
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     border: 10px gold;
     float: right;
-    width: 45%;
+    width: 35%;
     font-size: 35px;
     font-family: 'Papyrus', fantasy, serif;
 }
 
 footer {
     color: gold;
-    font-size: 50px;
+    font-size: 30px;
     font-family: 'Papyrus', fantasy, serif;
     text-align: center; 
 }
